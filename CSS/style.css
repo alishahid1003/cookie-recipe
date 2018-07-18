@@ -1,0 +1,31 @@
+h1 {
+    color: black;
+    font-family: 'Homemade Apple', cursive;
+    font-size: 40px;
+    margin-bottom: -15px;
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+}
+body {
+    color: #FFE;
+}
+p {
+    color: black;
+    margin-top: 50px;
+}
+ul {
+    color: black;
+}
+.health {
+    color: black;
+}
+span {
+    color: #900;
+}
+div {
+    border: 10px;
+}
